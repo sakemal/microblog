@@ -21,6 +21,10 @@ import static org.springframework.http.ResponseEntity.*;
 /**
  * Created by SMALVIYA on 12/10/2017.
  */
+
+/**
+ * Main REST Controller for the Application
+ */
 @CrossOrigin
 @RestController
 public class MicroblogController {
